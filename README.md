@@ -7,4 +7,4 @@
 - conftest - фикстуры
 - data - данные для тестов
 - helpers - вспомогательные функции
-- requirements.txt - зависимости проекта
+- requirements.txt - зависимости проекта Diplom
